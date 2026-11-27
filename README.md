@@ -38,3 +38,10 @@ DHCP for PHX-LAN-D (IPv4) and for DAL-LAN-301 (IPv6).
 Wireless configuration on the Wi-Fi router.
 Infrastructure services on the support server (NTP, Syslog, TFTP).
 IPv6 addressing across Dallas and the ISP link.
+
+
+
+
+
+<img width="1568" height="680" alt="image" src="https://github.com/user-attachments/assets/771e81a4-8d05-44a8-8907-4d8c4a82213d" />
+
